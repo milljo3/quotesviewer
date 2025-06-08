@@ -1,0 +1,23 @@
+.quote-card {
+    text-decoration: none;
+}
+
+.quote-card-content {
+    background: oklch(70.5% 0.015 286.067);
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 300px;
+    min-width: 300px;
+    border: 1px solid black;
+    word-wrap: break-word;
+    white-space: normal;
+}
+.quote-card-content:hover {
+    background: oklch(43.9% 0 0);
+}

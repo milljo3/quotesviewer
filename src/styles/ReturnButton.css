@@ -1,0 +1,11 @@
+.return-button {
+    border: none;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
+
+.return-button:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}

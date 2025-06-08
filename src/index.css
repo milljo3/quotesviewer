@@ -1,0 +1,15 @@
+html, body, #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-y: hidden;
+}
+
+#root {
+    background: oklch(70.5% 0.015 286.067);
+}
+
+* {
+    box-sizing: border-box;
+}
